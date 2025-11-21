@@ -1,5 +1,5 @@
 ## Exp. No. 2(b)
-**Date:**  
+**Date:1-10-25**  
 
 ## DESIGN OF WEIN BRIDGE OSCILLATOR
 <img width="971" height="85" alt="image" src="https://github.com/user-attachments/assets/f37d711d-3c1c-421b-baf2-c726a8b96d69" />
@@ -15,23 +15,21 @@
 
 
 # Tabulation
-| Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
-|------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
 
-
+![WhatsApp Image 2025-11-20 at 20 11 20_b2fbbda5](https://github.com/user-attachments/assets/afc9c660-190a-4aa5-a433-0446000f3d37)
 
 # Graph
 
+![WhatsApp Image 2025-11-20 at 20 11 50_fc2d9d63](https://github.com/user-attachments/assets/98fd1aeb-5bdd-4249-9a93-1577fc57f6c8)
 
 # Sample images 
 
-
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/f425d27d-b26b-488c-a480-638a3ada4fa6" />
 
 ## Result
 
 Thus, the **WEIN BRIDGE OSCILLATOR** was designed for the given frequency.
 
-- **(i) Theoretical Frequency:**  
-- **(ii) Practical Frequency:**  
+- **(i) Theoretical Frequency:1.5khz**  
+- **(ii) Practical Frequency:1.12khz**  
 
